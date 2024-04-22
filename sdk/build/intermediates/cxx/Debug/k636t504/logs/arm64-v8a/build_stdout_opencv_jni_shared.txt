@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\Projects\SignLens\sdk\.cxx\Debug\k636t504\arm64-v8a'
+ninja: no work to do.
